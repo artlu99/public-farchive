@@ -3,8 +3,8 @@
 
 *as of 10 Nov 2023:*
 
-- @dwr.eth's November so far, including wowow
-- @vitalik.eth's last month
+- @dwr.eth's November so far, including wowow [[download](tarballs/dwr.eth_mtd_20231109.tar.gz)]
+- @vitalik.eth's last month [[download](tarballs/vitalik.eth_1m_20231109.tar.gz)]
 
 ---
 
