@@ -4,4 +4,4 @@ plugins:
 title: Farchiver
 description: public archive
 logo: /assets/img/viz.gif
-show_downloads: true
+show_downloads: false
