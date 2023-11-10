@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Farchiver
 description: public archive
-logo: /assets/img/logo.png
+logo: /assets/img/viz.gif
 show_downloads: true
