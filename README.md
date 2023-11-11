@@ -17,6 +17,8 @@
 
 contact: [@farchiver](https://warpcast.com/farchiver)
 
+# Sign up via [DeForm](https://app.deform.cc/form/0e15e3e2-1252-405e-bb8e-9a4c4da0bbcd)
+
 ---
 
 The Farcaster protocol represents verifiable live state.
